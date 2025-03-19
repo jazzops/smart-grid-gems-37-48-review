@@ -1,5 +1,15 @@
 # Smart Grid & Air Quality Dashboard - Instrukcja obsługi
 
+Cel repozytorium:
+
+Repozytorium Smart Grid & Air Quality Dashboard uruchamia się w celu monitorowania jakości powietrza i zużycia energii. Wykorzystując zaawansowany algorytm AI, system analizuje dane, aby móc korzystać z wbudowanego wsparcia. Repozytorium zawiera kompleksowy plik README, który jest udostępniany na licencji, udostępniany i udostępniany na pulpicie. obejmuje sekcje dotyczące inicjowania projektu, rezultaty, panel monitorowania jakości powietrza, asystent AI i przetwarzanie dokumentów, map jakości powietrza, wyniki oraz dodatkowe informacje o dostarczaniu i licencjonowaniu.
+
+Funkcje i technologie
+
+To repozytorium implementuje zaawansowane oprogramowanie systemowe, które integruje kilka kluczowych technologii i funkcji. Wykorzystuje główny JavaScript i TypeScript, ze sterowaniem analizą danych na sztucznej inteligencji. Funkcje obejmują główny pulpit nawigacyjny dla wskaźników energii i jakości powietrza, mapy lotnicze, szczegółowe dane dotyczące urządzeń IoT. Asystent AI jest w stanie wykryć anomalie, prognozować i generować kontrolę na podstawie analizy danych. System obsługuje także przesyłanie dokumentów i generowanie kodu, kodowanie języka programowania (NLP) do analizy tekstu. Dostępna opcja wyposażenia, taki jak tryb ciemny/jasny, wybór języka i dostęp do samouczki, wraz z możliwością eksportu danych i pojedynczych alertów.
+
+W skrócie:
+
 System Smart Grid & Air Quality Dashboard został opracowany jako narzędzie do monitorowania jakości powietrza i zużycia energii. Wykorzystuje zaawansowane algorytmy AI do analizy danych i zapewnienia użytkownikom inteligentnego wsparcia w podejmowaniu decyzji.
 
 ## Spis treści
